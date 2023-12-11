@@ -1,0 +1,22 @@
+div img{
+    height: 40%;
+    width: 40%;
+    background-color: rgb(255, 9, 89);
+
+}
+div h1{
+    font-size: 300%;
+    color: #4169e1; 
+    block-size: 100px;
+    background-color:  #ff69b4;
+    text-align: center;
+    border-radius: 25%;
+}
+div form{
+    font-size: xx-large;
+}
+.my-input{
+    width: 200px;
+    height: 30px;
+    
+}
